@@ -4,4 +4,4 @@
 
 [OpenGL ES教程系列（经典合集）](http://www.cnblogs.com/sunminmin/p/4478578.html)
 
-[ Android OpenGLES2.0](http://blog.csdn.net/junzia/article/category/6462864/1)
+[Android OpenGL ES 2.0](http://blog.csdn.net/junzia/article/category/6462864/1)
